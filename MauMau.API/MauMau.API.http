@@ -1,0 +1,6 @@
+@MauMau.API_HostAddress = http://localhost:5217
+
+GET {{MauMau.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
